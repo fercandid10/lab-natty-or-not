@@ -90,7 +90,7 @@ VERSÃO 3 — RESULTADO FINAL 🎬
 
 Isso vai deixar o trabalho muito mais interessante.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 O desenvolvimento do projeto mostrou que a Inteligência Artificial Generativa pode transformar uma imagem estática em um conteúdo audiovisual dinâmico utilizando apenas uma imagem de referência e instruções em linguagem natural.
 
 Um dos principais desafios encontrados foi controlar os movimentos gerados pela IA sem alterar as características originais do animal. Nas primeiras tentativas, determinados movimentos provocaram pequenas alterações no rosto e na aparência do filhote. Através do refinamento dos prompts, foi possível reduzir esses problemas e obter um resultado mais consistente.
